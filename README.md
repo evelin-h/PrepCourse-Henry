@@ -1,1 +1,1 @@
-Proyecto para crear un repositorio y clonarlo desde github a mi repositorio local
+Proyecto para crear un repositorio y clonarlo desde github a mi repositorio local.
